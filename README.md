@@ -19,3 +19,6 @@ https://github.com/user-attachments/assets/fd3eabce-00e6-43ed-a8cf-4973539fa1d5
 4. Sales distribution insights
 
 ## Links
+1. REPORT(https://drive.google.com/file/d/1NiBh1yW6DTEZI9M0_Y6XsRmg1GqrrqNQ/view?usp=sharing)   
+
+2. SAMPLE DATA(https://drive.google.com/file/d/1Dp708WBa8hbbo7oXFrWTy0PBmVV8lflg/view?usp=sharing)
